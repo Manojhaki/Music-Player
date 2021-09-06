@@ -1,3 +1,5 @@
+<img width="576" alt="Screen Shot 2021-06-26 at 10 40 07 AM" src="https://gifyu.com/image/JT2b">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
