@@ -1,4 +1,4 @@
-![Farmers Market Finder Demo](public/screen.gif)
+![](public/screen.gif)
 
 
 
