@@ -1,4 +1,4 @@
-![Farmers Market Finder Demo](public/My Movie 11.gif)
+![Farmers Market Finder Demo](public/screen.gif)
 
 
 
