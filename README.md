@@ -1,4 +1,6 @@
-![](https://s9.gifyu.com/images/My-Movie-11.gif)
+![Farmers Market Finder Demo](public/My Movie 11.gif)
+
+
 
 # Getting Started with Create React App
 
