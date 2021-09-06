@@ -1,4 +1,4 @@
-<img width="576" alt="Screen Shot 2021-06-26 at 10 40 07 AM" src="https://s9.gifyu.com/images/My-Movie-11.gif">
+![](https://gifyu.com/image/JT2b)
 
 # Getting Started with Create React App
 
